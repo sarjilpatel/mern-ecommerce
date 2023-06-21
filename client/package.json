@@ -13,6 +13,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
     "chart.js": "^4.3.0",
     "country-state-city": "^3.1.4",
     "html-react-parser": "^4.0.0",
@@ -33,6 +34,7 @@
     "redux": "^4.2.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.2",
+    "stripe": "^12.9.0",
     "swiper": "^9.4.1",
     "web-vitals": "^2.1.4",
     "webfontloader": "^1.6.28"
