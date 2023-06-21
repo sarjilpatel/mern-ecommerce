@@ -35,7 +35,11 @@ const orderSchema = new mongoose.Schema({
         type: String,
         required: true,
       },
-      price: {
+      offerprice: {
+        type: Number,
+        required: true,
+      },
+      regularprice: {
         type: Number,
         required: true,
       },
