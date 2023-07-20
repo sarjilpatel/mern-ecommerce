@@ -25,8 +25,6 @@ const Footer = () => {
         <a href="http://instagram.com/sarjil_patel29" target="_blank">
           Instagram
         </a>
-        <a href="http://youtube.com/6packprogramemr">Youtube</a>
-        <a href="http://instagram.com/meabhisingh">Facebook</a>
       </div>
     </footer>
   );
